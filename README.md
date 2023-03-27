@@ -1,2 +1,2 @@
 # EchoChatBot
-Python
+LINEでオプチャやってたら興味深い文章が流れて来たので
